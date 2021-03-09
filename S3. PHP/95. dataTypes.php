@@ -16,7 +16,8 @@ var_dump($num2);
 echo "<hr>";
 
 // array 陣列 
-$fruits = array("apple", "banana", "coconut", "durian"); // 注意 php 是用 ()，非 js []
+$fruits = array("apple", "banana", "coconut", "durian"); 
+# $fruits = ["apple", "banana", "coconut", "durian"]; 也可這樣寫
 var_dump($fruits);
 echo "<hr>";
 
