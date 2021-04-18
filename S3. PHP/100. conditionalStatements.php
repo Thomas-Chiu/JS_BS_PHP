@@ -43,4 +43,3 @@ switch ($motorBike) {
   default: // 預設值
     echo "Gogoro 不是重機";
 }
-?>
